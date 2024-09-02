@@ -1,0 +1,5 @@
+in\mshitlearner\consumer\KafkaDltHandlerService.class
+in\mshitlearner\service\CustomerService.class
+in\mshitlearner\config\KafkaConsumerConfig.class
+in\mshitlearner\consumer\KafkaMessageListener.class
+in\mshitlearner\KafkaConsumerOneApplication.class
